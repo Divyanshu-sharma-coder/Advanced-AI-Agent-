@@ -1,7 +1,7 @@
-#🤖 AI System Architect Advisor (R1)
+# 🤖 AI System Architect Advisor (R1)
 
-*Repository: Advanced-AI-Agent
-*Owner: Divyanshu-sharma-coder
+* Repository: Advanced-AI-Agent
+* Owner: Divyanshu-sharma-coder
 
 A production-ready Agno-style agent that provides expert software architecture analysis and implementation roadmaps. It uses a dual-model approach — DeepSeek R1 for structured reasoning and Anthropic/Claude for human-friendly technical specs — to deliver clear architectural decisions for complex systems.
 
