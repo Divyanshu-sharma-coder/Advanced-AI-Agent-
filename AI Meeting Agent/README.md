@@ -1,6 +1,6 @@
-📌 AI Meeting Agent
+# 📌 AI Meeting Agent
 
-🎯 Your Smart Pre-Battle Assistant for Any Meeting
+* 🎯 Your Smart Pre-Battle Assistant for Any Meeting
 
 This AI Agent prepares you like a pro before stepping into any crucial meeting. It analyzes context, gathers intelligence, extracts insights, and crafts a winning strategy — so you're never caught off guard again.
 
