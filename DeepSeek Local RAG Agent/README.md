@@ -1,19 +1,19 @@
-
 # 🐋 DeepSeek Local RAG Reasoning Agent
 
 Built & Maintained by Divyanshu Jyotishi
+
 📂 Repo: Advanced-AI-Agent-
 
 
 ---
 
-A powerful local RAG + reasoning agent that combines DeepSeek local models (via Ollama), Snowflake embeddings, Qdrant vector DB, and a clean agentic architecture.
+* A powerful local RAG + reasoning agent that combines DeepSeek local models (via Ollama), Snowflake embeddings, Qdrant vector DB, and a clean agentic architecture.
 This agent supports local-only chat, RAG-enhanced reasoning, PDF/document intelligence, and web search fallback, all wrapped inside a Streamlit interface.
 
 
 ---
 
-🚀 Features
+# 🚀 Features
 
 🔹 Dual Modes
 
@@ -25,7 +25,7 @@ RAG Mode → DeepSeek + document context + web search (llama3.2)
 
 ---
 
-📄 RAG Document Intelligence
+# 📄 RAG Document Intelligence
 
 PDF upload & text extraction
 
@@ -39,7 +39,7 @@ Vector storage in Qdrant Cloud
 
 ---
 
-🧠 Smart Querying (RAG Mode)
+# 🧠 Smart Querying (RAG Mode)
 
 RAG-based retrieval
 
@@ -53,7 +53,7 @@ Source citations
 
 ---
 
-⚙️ Advanced Capabilities
+# ⚙️ Advanced Capabilities
 
 Exa AI search integration
 
@@ -69,7 +69,7 @@ Model switching on the fly
 
 ---
 
-🧩 Supported Models
+# 🧩 Supported Models
 ```
 deepseek-r1:1.5b (lightweight, laptop-friendly)
 
@@ -83,7 +83,7 @@ llama3.2 (web search & fallback reasoning)
 
 ---
 
-🛠️ Prerequisites
+# 🛠️ Prerequisites
 
 1️⃣ Install Ollama
 ```
@@ -126,7 +126,7 @@ Enables web search fallback
 
 ---
 
-▶️ How to Run (Your Repo Version)
+# ▶️ How to Run (Repo Version)
 
 Step 1: Go to your repo
 ```
@@ -143,7 +143,7 @@ streamlit run RagAgent.py
 ```
 ---
 
-📦 Your Project Structure (Updated)
+# 📦 Project Structure
 ```
 Advanced-AI-Agent-/
 │
@@ -253,7 +253,7 @@ Thinking process visualization
 
 ---
 
-🙋 How Others Can Use This Repo
+# 🙋 How Others Can Use This Repo
 
 Anyone can run your agent by following these steps:
 
