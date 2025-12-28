@@ -2,7 +2,7 @@
 
 # 🤝 `CONTRIBUTING.md`
 
-```md
+
 # Contributing to Gemini Agentic RAG
 
 Thank you for your interest in contributing! 🚀  
@@ -64,10 +64,10 @@ Rather than being a fully locked-down product, this project encourages:
 ---
 
 ## 🔁 Pull Request Process
-
+```
 1. Fork the repository
 2. Create a feature branch
-   ```bash
+   
    git checkout -b feature/your-feature-name
 
 3. Commit your changes
