@@ -54,7 +54,7 @@ We actively welcome PRs in these areas:
 2. **Create a feature branch**
    ```bash
    git checkout -b feature/your-feature-name
-  ```
+
 3. Write clean, documented code
 4. Test your changes
 5. Submit a Pull Request
