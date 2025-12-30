@@ -1,0 +1,18 @@
+# UI
+streamlit>=1.32.0
+
+# AI Agent Framework
+agno>=0.1.0
+
+# LLM Providers
+openai>=1.14.0
+google-generativeai>=0.4.1
+
+# Multimodal / Image Processing
+Pillow>=10.2.0
+
+# Secure Code Execution
+e2b-code-interpreter>=0.0.10
+
+# Utilities
+typing-extensions>=4.9.0
