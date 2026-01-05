@@ -1,0 +1,14 @@
+# UI
+streamlit>=1.32.0
+
+# Agent framework
+agno>=0.1.0
+
+# OpenAI model provider
+openai>=1.14.0
+
+# MCP (Model Context Protocol)
+mcp>=1.1.0
+
+# Utilities
+typing-extensions>=4.9.0
