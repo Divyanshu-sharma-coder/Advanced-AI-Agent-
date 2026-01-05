@@ -38,17 +38,17 @@ You can help in many ways:
 ```bash
 git clone https://github.com/Divyanshu-sharma-coder/GitHub-MCP-Agent.git
 cd GitHub-MCP-Agent
-
-###2️⃣ Create a Virtual Environment
+```
+### 2️⃣ Create a Virtual Environment
 ```python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 ```
 
-###3️⃣ Install Dependencies
+### 3️⃣ Install Dependencies
 ```
 pip install -r requirements.txt
 ```
-###4️⃣ System Requirements
+### 4️⃣ System Requirements
 * Python 3.10+
 * Docker (required for GitHub MCP server)
 
@@ -61,14 +61,14 @@ export OPENAI_API_KEY=your_openai_key
 export GITHUB_TOKEN=your_github_token
 export APP_MODE=dev
 ```
-##⚠️ Never commit secrets.
+## ⚠️ Never commit secrets.
 The .gitignore already excludes .env files.
 
-###▶️ Running the App
+### ▶️ Running the App
 ```
 streamlit run app.py
 ```
-##🧪 Testing Guidelines
+## 🧪 Testing Guidelines
 * This project currently relies on manual testing.
 * When submitting PRs:
 * Test with at least one public repository
