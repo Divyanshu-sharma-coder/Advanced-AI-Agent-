@@ -1,5 +1,21 @@
 # 🎮 Advanced AI PyGame Code Generator & Visualizer  
-### Agentic AI • DeepSeek R1 • OpenAI • Streamlit • Browser Automation
+<p align="center">
+  <a href="https://www.pygame.org/docs/" target="_blank">
+    <img src="https://img.shields.io/badge/PyGame-Game%20Engine-green?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  <a href="https://platform.openai.com/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenAI-LLM%20Engine-black?style=for-the-badge&logo=openai&logoColor=white">
+  </a>
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Streamlit-UI%20Framework-red?style=for-the-badge&logo=streamlit&logoColor=white">
+  </a>
+  <a href="https://www.deepseek.com/" target="_blank">
+    <img src="https://img.shields.io/badge/DeepSeek-R1%20Reasoning-blue?style=for-the-badge">
+  </a>
+</p>
+
+
+
 
 <p align="center">
   <b>An autonomous AI system that thinks, reasons, generates PyGame code, and runs it visually — end to end.</b>
@@ -67,6 +83,7 @@ Live PyGame Visualization
 1️⃣ Enter **DeepSeek API Key**  
 2️⃣ Enter **OpenAI API Key**  
 3️⃣ Write your PyGame visualization idea  
+3️⃣ Write your PyGame visualization idea  
 4️⃣ Click **Generate Code**  
 5️⃣ Click **Generate Visualization**  
 6️⃣ Watch the AI run your game 🎮  
@@ -89,25 +106,25 @@ Live PyGame Visualization
 ```bash
 git clone https://github.com/Divyanshu-sharma-coder/Advanced-AI-Agent-.git
 cd "Advanced-AI-Agent-/PYGAME 3D AI"
+```
 
-'''
-
-### 2 Create a virtual Environment
-'''
+### 2️⃣ Create a virtual Environment
+```
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
-'''
-### 3 Install Dependencies
-'''
+```
+
+### 3️⃣ Install Dependencies
+```
 pip install -r requirements.txt
-'''
+```
 
-### 4 Run The App
-'''
+### 4️⃣ Run The App
+```
 streamlit run Pygame.py
-'''
+```
 
-###API Keys Required
+### API Keys Required
 
 | Service  | Required |
 | -------- | -------- |
