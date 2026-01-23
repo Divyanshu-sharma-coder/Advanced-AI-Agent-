@@ -1,0 +1,7 @@
+streamlit
+openai
+langchain-openai
+agno
+browser-use
+asyncio
+pygame

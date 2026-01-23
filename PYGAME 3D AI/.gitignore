@@ -1,0 +1,35 @@
+
+---
+
+# ✅ .gitignore (Professional & Safe)
+
+```gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Secrets
+*.env
+*.key
+
+# Jupyter
